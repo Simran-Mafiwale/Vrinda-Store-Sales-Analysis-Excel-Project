@@ -27,3 +27,5 @@ Measures:
 2.	Focusing on gender-specific marketing strategies. Women drive purchases across all age groups, suggesting tailored marketing efforts for females. To increase male engagement, enhance personalized campaigns and product offerings
 3.	Strong delivery success rates and low return numbers indicate efficient operations. To sustain and improve performance, focus on optimizing logistics and enhancing customer service. Tailoring marketing strategies to regional preferences, with Maharashtra leading followed by Karnataka, Uttar Pradesh, Telangana, and Tamil Nadu, can maximize market penetration and drive sales growth effectively.
 4.	Amazon, Myntra, and Flipkart dominate the market. Expand presence on these platforms through visibility, promotions, and diverse product offerings to capitalize on their market influence and attract new customers.
+
+![image](https://github.com/Simran-Mafiwale/Vrinda-Store-Sales-Analysis-Excel-Project/assets/169597940/95586a74-d2b7-48df-9002-041b13a9d08a)
